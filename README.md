@@ -1,7 +1,7 @@
 # Logo
 
 <img src="https://raw.githubusercontent.com/grunnjs/logo/master/logo.png"
-align="center" />
+align="right" />
 
 The GrunnJS logo based on the coat of arms of Groningen (city). The coat of arms
 consists of a dual headed eagle holding a white shield with a green stripe. This
