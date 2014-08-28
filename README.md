@@ -14,6 +14,14 @@ The logo that we're using is influenced by these designs. But colored by using
 the same colors as the [logo.js](https://github.com/voodootikigod/logo.js)
 project.
 
+## Sticker
+
+Want to have this logo as a sticker on your laptop? Come to one of our meetups
+or order them on online through 
+[sticker mule](http://www.stickermule.com/marketplace/1880-javascript-family-crest)
+The profit of these stickers ($1 per sticker) will be used to fund the meetup
+and it's activities.
+
 ## License
 
 WTFPL
